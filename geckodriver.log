@@ -1,0 +1,432 @@
+1486190044982	geckodriver	INFO	Listening on 127.0.0.1:57366
+1486190046086	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iV98mxwe79kz
+1486190046086	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486190046088	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45425
+1486190046598	Marionette	INFO	Listening on port 45425
+1486190047719	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 5457] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5457] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486190527767	geckodriver	INFO	Listening on 127.0.0.1:51395
+1486190528856	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CvTumwu2ZzPZ
+1486190528856	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486190528858	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33333
+1486190529379	Marionette	INFO	Listening on port 33333
+1486246747982	geckodriver	INFO	Listening on 127.0.0.1:44114
+1486246749065	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.gunpfl6DtCJj
+1486246749066	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486246749068	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39376
+1486246749576	Marionette	INFO	Listening on port 39376
+1486246750695	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 3590] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 3590] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3590] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486246750745	geckodriver	INFO	Listening on 127.0.0.1:50489
+1486246751827	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.LsCjK6BKWodf
+1486246751828	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486246751830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37748
+1486246752336	Marionette	INFO	Listening on port 37748
+1486246753565	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 3723] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 3723] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 3723] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3723] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486246989036	geckodriver	INFO	Listening on 127.0.0.1:52660
+1486246990131	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.qkAKj3pK6dBh
+1486246990132	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486246990134	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37292
+1486246990668	Marionette	INFO	Listening on port 37292
+1486246991869	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 3969] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 3969] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3969] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486246991932	geckodriver	INFO	Listening on 127.0.0.1:60039
+1486246993035	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.reF7pNKzpGOR
+1486246993036	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486246993038	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41825
+1486246993553	Marionette	INFO	Listening on port 41825
+1486246994681	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4102] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4102] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486247182575	geckodriver	INFO	Listening on 127.0.0.1:33958
+1486247183664	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DaAmnyQ2T9V2
+1486247183664	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247183666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42317
+1486247184205	Marionette	INFO	Listening on port 42317
+1486247185322	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4336] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4336] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4336] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4336] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486247185370	geckodriver	INFO	Listening on 127.0.0.1:41929
+1486247186450	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.i9q49ZQXskGN
+1486247186451	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247186453	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42811
+1486247186955	Marionette	INFO	Listening on port 42811
+1486247188159	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4469] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4469] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486247473811	geckodriver	INFO	Listening on 127.0.0.1:45419
+1486247474891	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SsOsqp7QRnSZ
+1486247474892	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247474894	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44511
+1486247475393	Marionette	INFO	Listening on port 44511
+1486247476575	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4726] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4726] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4726] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486247476625	geckodriver	INFO	Listening on 127.0.0.1:56961
+1486247477715	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ON1LTJUT9aCs
+1486247477716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247477718	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44091
+1486247478228	Marionette	INFO	Listening on port 44091
+1486247479405	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4861] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 4861] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4861] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486247532731	geckodriver	INFO	Listening on 127.0.0.1:32937
+1486247533823	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.tXYh3jqK3YyK
+1486247533824	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247533826	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36384
+1486247534368	Marionette	INFO	Listening on port 36384
+1486247535491	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 5020] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5020] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486247535736	geckodriver	INFO	Listening on 127.0.0.1:40537
+1486247536817	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CRnbxtpsw6mB
+1486247536817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486247536819	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33177
+1486247537325	Marionette	INFO	Listening on port 33177
+1486247538470	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5154] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 5154] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486248163827	geckodriver	INFO	Listening on 127.0.0.1:48118
+1486248164932	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.D5hhk78ld6Sk
+1486248164933	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486248164936	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45742
+1486248165460	Marionette	INFO	Listening on port 45742
+1486248166605	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 5444] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5444] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486248167127	geckodriver	INFO	Listening on 127.0.0.1:36495
+1486248168205	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.g2vsp5NZpvWh
+1486248168206	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486248168208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46588
+1486248168756	Marionette	INFO	Listening on port 46588
+1486248169881	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5582] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5582] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486248476044	geckodriver	INFO	Listening on 127.0.0.1:49910
+1486248477142	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xpVdUHGvLNN0
+1486248477143	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486248477145	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39105
+1486248477658	Marionette	INFO	Listening on port 39105
+1486248478849	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5810] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5810] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486248479352	geckodriver	INFO	Listening on 127.0.0.1:58338
+1486248480434	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.XC614B7T3F5p
+1486248480435	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486248480437	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37051
+1486248480945	Marionette	INFO	Listening on port 37051
+1486248482164	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5949] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5949] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486249207408	geckodriver	INFO	Listening on 127.0.0.1:34410
+1486249208488	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ox5jMK4EP8Eo
+1486249208488	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249208490	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40231
+1486249209025	Marionette	INFO	Listening on port 40231
+1486249210225	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 6218] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 6218] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249210452	geckodriver	INFO	Listening on 127.0.0.1:58444
+1486249211575	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PoiW1QbUnlP2
+1486249211576	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249211578	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37929
+1486249212094	Marionette	INFO	Listening on port 37929
+1486249213279	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6350] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6350] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249358162	geckodriver	INFO	Listening on 127.0.0.1:56706
+1486249359267	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.cisBAuT3bvM0
+1486249359267	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249359269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34866
+1486249359785	Marionette	INFO	Listening on port 34866
+1486249361010	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6523] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6523] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249361229	geckodriver	INFO	Listening on 127.0.0.1:37721
+1486249362307	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.wtNRScZV8izY
+1486249362308	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249362310	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34952
+1486249362815	Marionette	INFO	Listening on port 34952
+1486249364011	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 6655] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 6655] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249732024	geckodriver	INFO	Listening on 127.0.0.1:53714
+1486249733105	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JB6yoZbOSPdx
+1486249733105	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249733107	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42477
+1486249733605	Marionette	INFO	Listening on port 42477
+1486249734715	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6893] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 6893] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6893] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249735385	geckodriver	INFO	Listening on 127.0.0.1:49010
+1486249736468	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.CnLDyqmUYvmN
+1486249736468	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249736470	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46229
+1486249736982	Marionette	INFO	Listening on port 46229
+1486249738116	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7031] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7031] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7031] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486249987925	geckodriver	INFO	Listening on 127.0.0.1:52100
+1486249989012	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DdATbsKG4FTE
+1486249989013	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249989015	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33612
+1486249989522	Marionette	INFO	Listening on port 33612
+1486249990641	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7288] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7288] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7288] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+1486249991194	geckodriver	INFO	Listening on 127.0.0.1:35517
+1486249992279	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vCVkENHFaFZA
+1486249992280	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486249992282	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42536
+1486249992789	Marionette	INFO	Listening on port 42536
+1486249993954	Marionette	WARN	Using deprecated data structure for setting timeouts
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7422] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 7422] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7422] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486250363118	geckodriver	INFO	Listening on 127.0.0.1:40980
+1486250364196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.o42gTHrc7R63
+1486250364197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486250364199	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36086
+1486250364705	Marionette	INFO	Listening on port 36086
+1486250365843	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7673] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7673] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7673] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486250366361	geckodriver	INFO	Listening on 127.0.0.1:52462
+1486250367446	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MH4lNY2xhgyQ
+1486250367447	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486250367449	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33661
+1486250367995	Marionette	INFO	Listening on port 33661
+1486250369090	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 7807] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 323
+[Child 7807] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 7807] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+

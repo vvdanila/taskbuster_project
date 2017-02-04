@@ -1,0 +1,31 @@
+1486190590205	geckodriver	INFO	Listening on 127.0.0.1:49815
+1486190591288	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2MIENl4gwizF
+1486190591289	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486190591291	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33688
+1486190591803	Marionette	INFO	Listening on port 33688
+1486190592904	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5917] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5917] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1486190693644	geckodriver	INFO	Listening on 127.0.0.1:37352
+1486190694734	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Qx9vEXrUZxmV
+1486190694735	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1486190694737	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37428
+1486190695284	Marionette	INFO	Listening on port 37428
+1486190696469	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 6132] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 6132] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RuETGa/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1040003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
