@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"templ",
+				"template_name"
+			],
+			[
+				"for",
+				"forloop"
+			],
+			[
+				"co",
+				"choice"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"H",
+				"Http404"
+			],
+			[
+				"re",
+				"request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "taskbuster/settings/base.py",
+			"settings":
+			{
+				"buffer_size": 3352,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "source `which virtualenvwrapper.sh`\n\n path_to_executable=$(which geckodriver)\n if [ -x \"$path_to_executable\" ] ; then\n    echo \"It's here: $path_to_executable\"\n fi\n\nvictor@lenovo:~$ ls -al ~/.ssh\ntotal 12\ndrwx------  2 victor victor 4096 Jan 29 20:22 .\ndrwxr-xr-x 51 victor victor 4096 Feb  3 18:37 ..\n-rw-r--r--  1 victor victor 1106 Feb  3 18:42 known_hosts\nvictor@lenovo:~$ ssh-keygen -t rsa -b 4096 -C \"vvdnaila87@gmail.com\"\nGenerating public/private rsa key pair.\nEnter file in which to save the key (/home/victor/.ssh/id_rsa):        \nEnter passphrase (empty for no passphrase): \nEnter same passphrase again: \nYour identification has been saved in /home/victor/.ssh/id_rsa.\nYour public key has been saved in /home/victor/.ssh/id_rsa.pub.\nThe key fingerprint is:\nSHA256:4lUjSizIgj7E3kM6vgUHVQMj5HUZdk2GcLl7YgA97Yw vvdnaila87@gmail.com\nThe key's randomart image is:\n+---[RSA 4096]----+\n|.o =+B=o=o       |\n|+.+o+=++..       |\n|o=o.o B o o      |\n|+.=  E = o .     |\n| B +  + S        |\n|. = .. * .       |\n| . .  o o        |\n|  o              |\n| .               |\n+----[SHA256]-----+\nvictor@lenovo:~$ eval \"$(ssh-agent -s)\"\nAgent pid 3158\nvictor@lenovo:~$ ssh-add ~/.ssh/id_rsa\nEnter passphrase for /home/victor/.ssh/id_rsa: \nIdentity added: /home/victor/.ssh/id_rsa (/home/victor/.ssh/id_rsa)\nvictor@lenovo:~$ ls\nairvpn                         Music\nanaconda2                      NewDatabase.kdbx\nbeijing_hotel_reservation.pdf  NewDatabase.key\nbusiness_plan.odp              npm-debug.log\nDesktop                        passwords\ndjango_env3                    Pictures\ndjango-project_dir_2           Public\nDocuments                      README.md\nDownloads                      saleor\nexamples.desktop               Templates\ngeckodriver                    ticketReservation24.11.2016.pdf\nlog                            tor\nmarinamele_tutorial            Videos\nmongodb-3.4.1                  zoom\nmozilla.pdf\nvictor@lenovo:~$ ",
+			"file": "tips.txt",
+			"file_size": 1809,
+			"file_write_time": 131306141802601302,
+			"settings":
+			{
+				"buffer_size": 1937,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functional_tests/test_all_users.py",
+			"settings":
+			{
+				"buffer_size": 866,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"python --version",
+			"type(323.1231321)",
+			"type(23)",
+			"type('dasda')",
+			"1+1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/victor/marinamele_tutorial/taskbuster_project",
+		"/home/victor/marinamele_tutorial/taskbuster_project/functional_tests"
+	],
+	"file_history":
+	[
+		"/home/victor/Desktop/Old Firefox Data/mvbpxvzr.default/webapps/webapps.json",
+		"/usr/lib/python3.6/asyncio/subprocess.py",
+		"/usr/lib/python3.6/subprocess.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/templates/index.html",
+		"/home/victor/marinamele_tutorial/taskbuster_project/tips.txt",
+		"/home/victor/passwords",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/settings/base.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/.gitignore",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/settings/testing.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/functional_tests/all_users.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/settings/development.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/requirements/testing.txt",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/settings/staging.py",
+		"/home/victor/marinamele_tutorial/taskbuster_project/taskbuster/settings/production.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/db/utils.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/utils/crypto.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/bin/django-admin.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/conf/__init__.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/conf/global_settings.py",
+		"/home/victor/django_env3/saleor/saleor/settings.py",
+		"/home/victor/django-project_dir_2/mytestenv/pip-selfcheck.json",
+		"/home/victor/django-project_dir_2/mytestenv/geckodriver.log",
+		"/home/victor/django-project_dir_2/myvenv/functional_tests/all_users.py",
+		"/home/victor/django_project_dir/myvenv/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py",
+		"/home/victor/django_env3/saleor/templates/home.html",
+		"/home/victor/django_env3/saleor/templates/account/password_reset_from_key.html",
+		"/home/victor/django_env36_2/django_env36/django/README.rst",
+		"/home/victor/django_env36/venv/bin/activate_this.py",
+		"/home/victor/django_env3/saleor/node_modules/os-locale/readme.md",
+		"/home/victor/django_env3/saleor/node_modules/sass-graph/node_modules/yargs/node_modules/os-locale/package.json",
+		"/home/victor/django_env3/saleor/node_modules/yargs/node_modules/os-locale/readme.md",
+		"/home/victor/django_env3/saleor/node_modules/os-locale/package.json",
+		"/home/victor/django_env3/saleor/node_modules/material-design-icons/maps/ios/ic_local_pharmacy.imageset/Contents.json",
+		"/home/victor/django_env3/saleor/node_modules/sass-graph/node_modules/yargs/locales/pirate.json",
+		"/home/victor/django_env3/saleor/node_modules/yargs/locales/de.json",
+		"/home/victor/django_env3/saleor/node_modules/yargs/locales/en.json",
+		"/home/victor/django_env3/saleor/node_modules/jquery-ui/demos/datepicker/localization.html",
+		"/home/victor/django_env3/saleor/manage.py",
+		"/home/victor/django_env3/saleor/tests/test_checkout.py",
+		"/home/victor/django_env3/saleor/saleor/urls.py",
+		"/home/victor/django_env3/saleor/saleor/__init__.py",
+		"/home/victor/django_env3/saleor/saleor/static/schema.json",
+		"/home/victor/django_env3/saleor/saleor/static/scss/dashboard/vendor/_basic.scss",
+		"/home/victor/django_env3/saleor/saleor/static/js/stores/variantPicker.js",
+		"/home/victor/django_env3/saleor/saleor/static/js/components/categoryPage/AttributeInput.js",
+		"/home/victor/django_env3/saleor/saleor/static/assets/dashboard.24a4d19299f0688b5e21.js",
+		"/home/victor/django_env3/saleor/saleor/static/assets/dashboard.9b4eaabfa21463702db0ee27b72d2183.css",
+		"/home/victor/django_env3/saleor/runtime.txt",
+		"/home/victor/django_env3/saleor/app.json",
+		"/home/victor/django_env3/saleor/tests/dashboard/test_product.py",
+		"/home/victor/django_env3/saleor/tests/settings.py",
+		"/home/victor/django_env3/saleor/templates/prices/widget.html",
+		"/home/victor/django_env3/saleor/templates/search/results.html",
+		"/home/victor/django_env3/saleor/templates/dashboard/base.html",
+		"/home/victor/django_env3/saleor/templates/checkout/summary.html",
+		"/home/victor/django_env3/saleor/templates/checkout/details.html",
+		"/home/victor/django_env3/saleor/templates/cart/index.html",
+		"/home/victor/django_env3/saleor/templates/admin/base_site.html",
+		"/home/victor/django_env3/saleor/templates/account/partials/login_form.html",
+		"/home/victor/django_env3/saleor/templates/account/email/email_confirmation_subject.txt",
+		"/home/victor/django_env3/saleor/templates/account/email/email_confirmation_message.txt",
+		"/home/victor/django_env3/saleor/node_modules/request/README.md",
+		"/home/victor/django_env3/saleor/node_modules/minimist/readme.markdown",
+		"/home/victor/django_env3/saleor/node_modules/minimist/package.json",
+		"/home/victor/django_env3/saleor/node_modules/minimist/LICENSE",
+		"/home/victor/django_env3/saleor/node_modules/minimist/example/parse.js",
+		"/home/victor/django_env3/saleor/node_modules/is-number/README.md",
+		"/home/victor/django_env3/saleor/node_modules/is-number/LICENSE",
+		"/home/victor/django_env3/saleor/templates/base.html",
+		"/home/victor/django_env3/saleor/templates/checkout/snippets/addresses-form.html",
+		"/home/victor/django_env3/saleor/templates/userprofile/snippets/address-form.html",
+		"/home/victor/django_app2/tutorial-project/mysite/settings.py",
+		"/home/victor/django_app2/tutorial-project/mysite/urls.py",
+		"/home/victor/django_app2/tutorial-project/mysite/templates/fullwidth.html",
+		"/home/victor/django_app2/tutorial-project/mysite/templates/polls/base.html",
+		"/home/victor/django_app2/src/polls/polls/cms_plugins.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/db/backends/postgresql/base.py",
+		"/home/victor/django_env3/lib/python2.7/site-packages/psycopg2/__init__.py",
+		"/home/victor/django_env3/saleor/saleor/static/js/storefront.js",
+		"/home/victor/django_env3/saleor/templates/product/details.html",
+		"/home/victor/django_env3/saleor/templates/category/_items.html",
+		"/home/victor/django_env3/saleor/templates/category/index.html",
+		"/home/victor/django_env3/saleor/templates/checkout/shipping_address.html",
+		"/home/victor/django_env3/saleor/templates/checkout/login.html",
+		"/home/victor/django_env3/saleor/templates/materializecssform/field.html",
+		"/home/victor/django_env3/saleor/templates/product/_price_range.html",
+		"/home/victor/django_env3/saleor/saleor/wsgi/health_check.py",
+		"/home/victor/django_env3/saleor/docs/conf.py",
+		"/home/victor/django_env3/saleor/docs/Makefile",
+		"/home/victor/django_env3/saleor/Procfile",
+		"/home/victor/django_env3/saleor/README.md",
+		"/home/victor/django_env3/saleor/package.json",
+		"/home/victor/django_env3/saleor/requirements.in",
+		"/home/victor/django_env3/saleor/saleor/static/assets/storefront.1bae5710507a846ea113.js",
+		"/home/victor/django_env3/saleor/saleor/static/assets/category.4bb7bf81bda237653173.js",
+		"/home/victor/django_env3/saleor/LICENSE",
+		"/home/victor/django_env3/saleor/docs/payments.rst",
+		"/home/victor/django_env3/saleor/requirements.txt",
+		"/home/victor/django_env3/lib/python2.7/site-packages/django/db/backends/postgresql/client.py",
+		"/home/victor/django_app2/lib/python2.7/site-packages/cms/cms_plugins.py",
+		"/home/victor/django_app2/src/polls/polls/models.py",
+		"/home/victor/django_app2/tutorial-project/templates/polls_cms_integration/poll_plugin.html",
+		"/home/victor/django_app2/src/pip-delete-this-directory.txt",
+		"/home/victor/django_app2/tutorial-project/mysite/templates/base.html",
+		"/home/victor/django_app1/djproj1/djproj1/settings.py",
+		"/home/victor/django_app2/tutorial-project/requirements.txt",
+		"/home/victor/django_app1/djproj1/djproj1/urls.py",
+		"/home/victor/django_app1/djproj1/templates/template_1.html",
+		"/home/victor/django_app1/djproj1/templates/base.html",
+		"/home/victor/django_app1/djproj1/templates/Untitled Document",
+		"/home/victor/django_app1/djproj1/manage.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/improve_street_names.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/preparing_data_for_import.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/OSM-Project/readme.txt",
+		"/home/victor/Documents/python-79-chars",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/explore_users.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/readme.txt",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/map_data",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/cluj.osm.json",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/explore_data.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/count_tags.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/readme",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/resize_osm_file.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/Udacity_Reviews",
+		"/home/victor/Documents/django and web development resources",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/terminal/improvingStreetNames.py",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Resources",
+		"/home/victor/Documents/DA_Project3_Data_Wrangling/Project/py_files/import_to_mongodb.py"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			":\n",
+			"secret",
+			"languagedjango localize python 2.7",
+			"language",
+			"LANGUAGES_BIDI",
+			"LANGUAGE",
+			"translate",
+			"addressed",
+			"your",
+			"sample",
+			"a sample",
+			"storefront",
+			"curren",
+			"_dirs",
+			"Project_PATH",
+			"static",
+			"media",
+			"shell",
+			"[docs]",
+			"productionStartYear",
+			"FL",
+			"carrier",
+			"Beautiful",
+			"airport",
+			"value",
+			"beatles",
+			"begin-area",
+			"area",
+			"begin_area",
+			"gedit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "taskbuster/settings/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tips.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functional_tests/test_all_users.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								866,
+								866
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
